@@ -1,6 +1,6 @@
 ## Documents
 - [requirements.md](docs/requirements.md)
-- [user-stories.md](docs/user-stories.md)
+- [user.stories.md](docs/user.stories.md)
 - [traceability.md](docs/traceability.md)
 
 ## Demo & Post
