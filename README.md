@@ -1,7 +1,7 @@
 ## Documents
-- docs/requirements.md
-- docs/user-stories.md
-- docs/traceability.md
+- [requirements.md](docs/requirements.md)
+- [user-stories.md](docs/user-stories.md)
+- [traceability.md](docs/traceability.md)
 
 ## Demo & Post
 - Demo video: [to be added]
